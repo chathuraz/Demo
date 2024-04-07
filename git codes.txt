@@ -1,0 +1,10 @@
+git --version
+git config --list
+git config --global user.name chathuraz
+git confug --global user-email sajeewachathura2001@outlook.com
+code .
+git status
+git add demo.html
+git commit -m "add demo"
+git remote add origin https://github.com/chathuraz/Demo.git
+git checkout -b t origin/another-branch
